@@ -1,1 +1,1 @@
-# Bussiness-Name-Generatory
+# Bussiness-Name-Generator
